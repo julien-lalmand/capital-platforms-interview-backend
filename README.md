@@ -13,3 +13,7 @@ Technologies used:
 - DDD Ready
 - NUnit tests (will add more)
 - Moq
+
+Steps to initiate
+1) Navigate to `API/` and edit the SQL connectionstring (if needed) located in `appsettings.json`
+2) Run using Visual Studio
